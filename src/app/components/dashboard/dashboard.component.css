@@ -1,0 +1,40 @@
+
+
+.padre {
+    width: 100%;
+    height: 100%;
+    font-family: Montserrat;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+
+section {
+    width: 100%;
+    height: 100%;
+}
+
+.presentacion {
+    width: 100%;
+    height: 500px;
+    left: 0;
+    right: 0;
+    background-image: url("http://static.iris.net.co/sostenibilidad/upload/images/2020/3/21/49136_1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+
+.card:hover {
+    transform: scale(1.1);
+    transition: .3s ease;
+}
+
+.terratenientes {
+    background-color: rgb(63, 63, 117);
+}
+
